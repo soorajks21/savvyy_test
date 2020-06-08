@@ -1,0 +1,16 @@
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\WebApi_Test.exe
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\BookLib.deps.json
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\BookLib.dll
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\WebApi_Test.dll
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\WebApi_Test.pdb
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\obj\Debug\netcoreapp3.1\BookLib.csprojAssemblyReference.cache
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\obj\Debug\netcoreapp3.1\BookLib.AssemblyInfoInputs.cache
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\obj\Debug\netcoreapp3.1\BookLib.AssemblyInfo.cs
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\obj\Debug\netcoreapp3.1\BookLib.csproj.CopyComplete
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\bin\Debug\netcoreapp3.1\BookLib.pdb
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\obj\Debug\netcoreapp3.1\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\obj\Debug\netcoreapp3.1\BookLib.dll
+C:\Users\soora\savvyy_test\savvyy-take-home-vjpzms\WebApi_Test\BookLib\obj\Debug\netcoreapp3.1\BookLib.pdb
